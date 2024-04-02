@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     #my apps
     'rest_framework',
     'polls',
+    'rest_framework_swagger',
     'rest_framework.authtoken',
 ]
 
